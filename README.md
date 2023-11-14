@@ -4,6 +4,10 @@
 
 Projeto feito no curso de 'JavaScript validações e reconhecimento de voz' da Alura.
 
+## Instruções
+
+Abrir o arquivo 'index.html' (sem as aspas) no navegador para poder ver o projeto
+
 ## Tecnologias
 
 - [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
